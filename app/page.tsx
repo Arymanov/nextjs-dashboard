@@ -45,6 +45,7 @@ export default function Page() {
             className="hidden sm:max-md:block"
             alt="Screenshots of the dashboard project showing desktop version"
           />
+          
         </div>
       </div>
     </main>
